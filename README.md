@@ -1,5 +1,5 @@
 # Hamoye-Data-Fusion
-This is the repository for the team "Data Fusion" of Hamoye Data Science Fall Internship 2023. All of our work, along with datasets, code, visualizations, and documentation will be presented in this repository. The contribution of each member could be seen as they push and commit their hardwork here.
+This is the repository for the team "Data Fusion" of Hamoye Data Science Fall Internship 2023. All of our work, along with datasets, code, visualizations, and documentation will be presented in this repository. The contribution of each member could be seen as they push and commit their hard work here.
 
 # The team:
 
@@ -8,7 +8,11 @@ The Table below consists of the list of all the team members in our team along w
 | Name | Track |
 | --- | --- |
 | Akash Kundu | Data Science |
-
+| Ikenna Ajere | Data Science |
+| Amir Adams | Data Science |
+| Maria Ajose | Data Science |
+| Eke Mong Eke | Data Storytelling |
+| Linda Owolabi | Data Science |
 
 The team representatives are:
 
