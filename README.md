@@ -12,6 +12,7 @@ The Table below consists of the list of all the team members in our team along w
 | Amir Adams | Data Science |
 | Maria Ajose | Data Science |
 | Chinaza Blessing Oroke | Data Science |
+| Oluwafemi Abiona | Data Engineering |
 | Eke Mong Eke | Data Storytelling |
 | Linda Owolabi | Data Storytelling |
 
