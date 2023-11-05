@@ -16,6 +16,10 @@ The Table below consists of the list of all the team members in our team along w
 | Oluwafemi Abiona | Data Engineering |
 | Eke Mong Eke | Data Storytelling |
 | Linda Owolabi | Data Storytelling |
+| John Fakile | DevOps |
+
+
+
 
 The team representatives are:
 
