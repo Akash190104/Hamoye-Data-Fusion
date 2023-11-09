@@ -87,9 +87,7 @@ As a result of this analysis, several insights were generated.
 1.  The event types, battles (28.8%) and violence against civilians (28.6%) contributed the most to fatalities, which indicates the prevalence of armed conflicts and human rights abuses. Protests and riots (over 30%) also appear to be relatively common, highlighting the presence of social and political unrest.
     
 
-![A close-up of a pie chart
-
-Description automatically generated](https://lh7-us.googleusercontent.com/D5f7vwG0UcJ7D7pN5mL56vwMhVOl75neynlS8br92L7bhD1DwnbDfH-iETcElVHJDMg0QDgywWmga8o2ZU0P3nulLV2quezCD8H8Zx62LL0bmx6ttPIKow6pdF8kcFDsJszNQIyviLNKMBtlZnx2b1bbiixByro)
+![A close-up of a pie chartDescription automatically generated](https://lh7-us.googleusercontent.com/D5f7vwG0UcJ7D7pN5mL56vwMhVOl75neynlS8br92L7bhD1DwnbDfH-iETcElVHJDMg0QDgywWmga8o2ZU0P3nulLV2quezCD8H8Zx62LL0bmx6ttPIKow6pdF8kcFDsJszNQIyviLNKMBtlZnx2b1bbiixByro)
 
 2.  We observed that in 2020, there were 10,413 reported events, making it the year with the highest count. This suggests that 2020 was a year that experienced a significant number of incidents. While between 2016 - 2019 had a significant number of reported events. It can be said that these years signify periods of heightened conflict or incidents that received substantial attention and reporting.
     
@@ -111,9 +109,7 @@ Figure 2: Distribution of Top Event Actors
 
   
 
-![A graph of a bar graph
-
-Description automatically generated with medium confidence](https://lh7-us.googleusercontent.com/TEWxdPeWtuTbdfxBgPDRFtbJ4CNZSweQEcmMMr1fjXdwLNKlGCXTLF7zuSL1tMmfxijGlyvjoHVMoU9jNwEZkFF_eVz-3u3j0vNM1-OOC20ohrthyc8C4h7DMC1N8ipxQjMmfuQhey_niijdAZHV3SlrUiNGL7M)
+![A graph of a bar graphDescription automatically generated with medium confidence](https://lh7-us.googleusercontent.com/TEWxdPeWtuTbdfxBgPDRFtbJ4CNZSweQEcmMMr1fjXdwLNKlGCXTLF7zuSL1tMmfxijGlyvjoHVMoU9jNwEZkFF_eVz-3u3j0vNM1-OOC20ohrthyc8C4h7DMC1N8ipxQjMmfuQhey_niijdAZHV3SlrUiNGL7M)
 
 Fig.
 
